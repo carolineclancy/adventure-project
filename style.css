@@ -1,0 +1,81 @@
+body{
+  background-color: pink;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#ferris{
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 25px;
+  padding: 10px;
+
+}
+
+
+.btn{
+  text-align: center;
+  vertical-align: middle;
+  color: #FF0066;
+  background-color: #FF66FF;
+  padding: 10px;
+}
+
+#btn-1{
+  height: 50px;
+  width: 100px;
+}
+
+.btn:hover{
+  color: #FF0066;
+  background-color: #FF458F;
+  }
+
+.skip{
+  font-size: 30px;
+}
+
+
+#car{
+  padding-top: 50px;
+  size: 50%;
+  text-align: center;
+}
+
+#subway{
+  position: absolute;
+  clip: rect(54px,10000px,270px,22px);
+  text-align: center;
+}
+
+#test{
+  height: 250px;
+  width: auto;
+}
+
+#rock{
+  height: 50%;
+}
+
+#empire{
+  height: 50%;
+}
+
+#chipotle{
+  height: 250px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  clip: rect(0px,auto,215px, auto);
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+img{
+  padding: 10px;
+}
+
+div{
+  column-gap: 0px;
+}
+
